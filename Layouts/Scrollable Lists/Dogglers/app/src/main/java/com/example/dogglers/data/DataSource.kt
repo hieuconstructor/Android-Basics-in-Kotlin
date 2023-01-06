@@ -3,7 +3,7 @@ package com.example.dogglers.data
 import com.example.dogglers.R
 import com.example.dogglers.model.Dog
 
-object Datasource {
+object DataSource {
     val dogs: List<Dog> = listOf(
         Dog(
             R.drawable.tzeitel,
